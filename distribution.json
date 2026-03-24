@@ -1,19 +1,24 @@
 {
     "version": "1.0.0",
+    "discord": {
+        "clientId": "0"
+    },
     "rss": "https://zzapcho.github.io/MRSDistribution/rss.xml",
     "servers": [
         {
             "id": "1.21.11-smp",
             "name": "야생서버",
-            "description": "1.21.11 smp",
+            "description": "1.21.11 SMP",
             "icon": "https://zzapcho.github.io/MRSDistribution/icon.png",
-            "version": "1.21.11",
+            "minecraftVersion": "1.21.11",
             "address": "smp.zzapcho.kr",
             "discord": {
-                "clientId": "",
-                "smallImageText": "내 서버",
+                "clientId": "0",
+                "smallImageText": "야생서버",
                 "smallImageKey": "icon"
             },
+            "mainServer": true,
+            "autoconnect": true,
             "modules": []
         }
     ]
