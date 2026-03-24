@@ -1,0 +1,31 @@
+{
+    "version": "1.0.0",
+    "rss": "https://zzapcho.github.io/MRSDistribution/rss.xml",
+    "servers": [
+        {
+            "id": "1.21.11-smp",
+            "name": "야생서버",
+            "description": "1.21.11 smp",
+            "icon": "https://zzapcho.github.io/MRSDistribution/icon.png",
+            "version": "1.21.11",
+            "address": "smp.zzapcho.kr",
+            "discord": {
+                "clientId": "",
+                "smallImageText": "내 서버",
+                "smallImageKey": "icon"
+            },
+            "modules": []
+        }
+    ]
+}
+```
+
+> `address` 에 실제 도메인 넣으면 돼요 (예: `play.zzapcho.net`)
+
+---
+
+## Step 3. 런처에 배포 서버 URL 연결
+
+VS Code로 MRS 런처 열고 (`code .`), 아래 파일 찾기:
+```
+app/assets/js/configmanager.js
