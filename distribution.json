@@ -18,14 +18,3 @@
         }
     ]
 }
-```
-
-> `address` 에 실제 도메인 넣으면 돼요 (예: `play.zzapcho.net`)
-
----
-
-## Step 3. 런처에 배포 서버 URL 연결
-
-VS Code로 MRS 런처 열고 (`code .`), 아래 파일 찾기:
-```
-app/assets/js/configmanager.js
