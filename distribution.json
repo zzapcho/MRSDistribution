@@ -21,13 +21,13 @@
             "autoconnect": true,
             "modules": [
                 {
-                    "id": "net.fabricmc:fabric-loader:0.16.10",
+                    "id": "net.fabricmc:fabric-loader:0.18.1",
                     "name": "Fabric Loader",
                     "type": "FabricLoader",
                     "artifact": {
-                        "size": 0,
-                        "MD5": "0",
-                        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.11/0.16.10/1.0.1/server/jar"
+                        "size": 1944103,
+                        "MD5": "EEE78DB537E19297A4A5966BDAD51291",
+                        "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.18.1/fabric-loader-0.18.1.jar"
                     }
                 }
             ]
