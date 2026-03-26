@@ -21,13 +21,13 @@
             "autoconnect": true,
             "modules": [
                 {
-                    "id": "net.fabricmc:fabric-loader:0.18.1",
+                    "id": "net.fabricmc:fabric-loader:0.18.4",
                     "name": "Fabric Loader",
                     "type": "FabricLoader",
                     "artifact": {
-                        "size": 4128,
-                        "MD5": "88EF013ECCB885F65138424C0BBA1A0C",
-                        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.11/0.18.1"
+                        "size": 4127,
+                        "MD5": "e32abb22b1159efb5c42a194e35500b6",
+                        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.11/0.18.4"
                     }
                 }
             ]
