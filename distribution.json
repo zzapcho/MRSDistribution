@@ -25,10 +25,11 @@
                     "name": "Fabric Loader",
                     "type": "Fabric",
                     "artifact": {
-                        "size": 4127,
-                        "MD5": "e32abb22b1159efb5c42a194e35500b6",
-                        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.11/0.18.4"
-                    },
+                    "size": 1944518,
+                    "MD5": "56c00fa22e0452e8567be1feae73c3b9",
+                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.18.4/fabric-loader-0.18.4.jar"
+                }
+
                     "subModules": [
                         {
                             "id": "fabric-loader-1.21.11-0.18.4",
